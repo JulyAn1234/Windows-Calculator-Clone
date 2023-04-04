@@ -1,0 +1,10 @@
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.frmCalculadora.resources
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Properties.Resources.resources
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.GenerateResource.cache
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+C:\Users\Julia\source\repos\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb

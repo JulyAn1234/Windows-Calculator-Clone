@@ -1,0 +1,11 @@
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\bin\Release\ProyectoCalculadora.exe.config
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\bin\Release\ProyectoCalculadora.exe
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\bin\Release\ProyectoCalculadora.pdb
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.csproj.AssemblyReference.cache
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.frmCalculadora.resources
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.Properties.Resources.resources
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.csproj.GenerateResource.cache
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.exe
+C:\Users\Julia\OneDrive\Escritorio\ProyectoCalculadora\ProyectoCalculadora\obj\Release\ProyectoCalculadora.pdb
